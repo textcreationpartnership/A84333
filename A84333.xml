@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie on the most reverend father in God VVilliam lord Arch-bishop of Canterbury; attatched [sic] the 18. of Decemb. 1640. Beheaded the 10. of Ianuary 1644.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84333</idno>
+            <idno type="STC">Wing E426</idno>
+            <idno type="STC">Thomason E271_8</idno>
+            <idno type="STC">ESTC R212209</idno>
+            <idno type="EEBO-CITATION">99870853</idno>
+            <idno type="PROQUEST">99870853</idno>
+            <idno type="VID">159461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E271[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie on the most reverend father in God VVilliam lord Arch-bishop of Canterbury; attatched [sic] the 18. of Decemb. 1640. Beheaded the 10. of Ianuary 1644.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>L. Lichfield],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed, 1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "March 4th Oxon:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Laud, William, 1573-1645 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159461:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>AN ELEGIE ON THE Moſt Reverend Father in God VVILLIAM LORD ARCH-BISHOP <hi>OF CANTERB<g ref="char:V">Ʋ</g>RY;</hi>
+            </p>
+            <p>Attatched the 18. of <hi>Decemb.</hi> 1640.</p>
+            <p>Beheaded the 10. of <hi>Ianuary</hi> 1644.</p>
+            <p>Printed, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:159461:2"/>
+            <!-- PDF PAGE 104 -->
+            <pb n="1" facs="tcp:159461:2"/>
+            <!-- PDF PAGE 104 -->
+            <head>AN ELEGIE ON THE MOST REVEREND Father in God WILLIAM, Lord Arch-Biſhop of <hi>Canterbury,</hi> Attatched the 18. of <hi>Decemb.</hi> 1640.<lb/>
+Beheaded the 10. of <hi>Jan.</hi> 1644.</head>
+            <opener>
+               <salute>Moſt Reverend. Martyr.</salute>
+            </opener>
+            <lg>
+               <l>THou, ſince thy thick Afflictions firſt begun,</l>
+               <l>Mak'ſt <hi>Diocleſian's</hi> dayes all <hi>Calme,</hi> and <hi>Sun,</hi>
+               </l>
+               <l>And when thy Tragick Annals are compil'd,</l>
+               <l>Old Perſecutions ſhall be <hi>Pitty</hi> ſtil'd,</l>
+               <l>The <hi>Stake</hi> and <hi>Faggot,</hi> ſhall be Temp'rate names,</l>
+               <l>And <hi>Mercy</hi> weare the Character of <hi>Flames:</hi>
+               </l>
+               <l>Men knew not then <hi>Thrift</hi> in the Martyrs breath,</l>
+               <l>Nor weav'd their lives into a foure years Death,</l>
+               <l>Few ancient <hi>Tyrants</hi> doe our ſtories Taxe,</l>
+               <l>That ſlew firſt by <hi>Delayes,</hi> then by the <hi>Axe,</hi>
+               </l>
+               <l>
+                  <pb n="2" facs="tcp:159461:3"/>
+                  <!-- PDF PAGE 105 -->
+But theſe (<hi>Tiberius</hi> like) alone doe crye,</l>
+               <l>
+                  <hi>'Tis to be Reconcil'd to let Thee Dye.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Obſerve we then a while, into what <hi>Maze,</hi>
+               </l>
+               <l>
+                  <hi>Compaſse,</hi> and <hi>Circle,</hi> they contrive Delaies,</l>
+               <l>What <hi>Turnes,</hi> and wild <hi>Perplexities</hi> they choſe,</l>
+               <l>Ere they can forge their <hi>ſlander,</hi> and <hi>Accuſe:</hi>
+               </l>
+               <l>The Sun hath now brought his warme Chariot back,</l>
+               <l>And rode his Progreſſe round the <hi>Zodiack,</hi>
+               </l>
+               <l>When yet no <hi>Crime</hi> appeares, when none can tell,</l>
+               <l>Where thy <hi>guilt</hi> ſleeps, nor when 'twill break the ſhell,</l>
+               <l>Why is His <hi>ſhame</hi> deferr'd? what is't that bring's</l>
+               <l>Your <hi>Iustice</hi> back, ſpoyles <hi>Vengeance</hi> of her Wings?</l>
+               <l>Hath <hi>mercy</hi> ſeaz'd you? will you rage no more?</l>
+               <l>Are <hi>Winds</hi> grown <hi>tame?</hi> have <hi>ſeas</hi> forgot to <hi>Roare?</hi>
+               </l>
+               <l>No, a Wild fierceneſſe hath your minds poſſeſt,</l>
+               <l>Which <hi>time</hi> and <hi>ſinnes</hi> muſt <hi>cheriſh</hi> and <hi>digest:</hi>
+               </l>
+               <l>You durſt not now let <hi>His</hi> cleer Blood be ſpilt,</l>
+               <l>You were not yet grown up to ſuch a guilt,</l>
+               <l>You try if <hi>Age</hi> if <hi>ſeaventy years</hi> can Kill;</l>
+               <l>Then y'have your <hi>Ends,</hi> and you are <hi>Harmleſse</hi> ſtill,</l>
+               <l>But when this fail'd, you doe your Paths enlarge,</l>
+               <l>But would not yet <hi>whole</hi> Innocence diſcharge;</l>
+               <l>You'l not be <hi>Divell All,</hi> you fain would prove</l>
+               <l>Good at <hi>faire diſtance,</hi> within ſome <hi>Remove,</hi>
+               </l>
+               <l>"Vertue hath ſweets which are good Mens due gaine,</l>
+               <l>"Which Vice would not Deſerve, yet would Retaine.</l>
+               <l>This was the Cauſe, why once it was your Care,</l>
+               <l>That <hi>Stormes</hi> and <hi>Tempeſts</hi> in your <hi>ſin</hi> might ſhare,</l>
+               <l>You did engage the <hi>Waves,</hi> and ſtrongly ſtood</l>
+               <l>To make the <hi>Water</hi> Guilty of His <hi>Blood,</hi>
+               </l>
+               <l>
+                  <pb n="3" facs="tcp:159461:3"/>
+                  <!-- PDF PAGE 105 -->
+Boats are diſpatcht in Haſt. and 'tis His doome,</l>
+               <l>Not to His <hi>charge,</hi> but to His <hi>ſhipwrack</hi> come;</l>
+               <l>
+                  <hi>Fond men,</hi> your cruell Project cannot doe,</l>
+               <l>
+                  <hi>Tempeſts</hi> and <hi>stormes</hi> muſt learne to Kill from <hi>you,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When this came ſhort; He muſt <hi>Walk Pilgrimage,</hi>
+               </l>
+               <l>No <hi>Coach</hi> not <hi>mule,</hi> that may Suſtaine His Age;</l>
+               <l>Muſt trace the <hi>City</hi> (now a <hi>Deſart rude</hi>)</l>
+               <l>And combate ſalvage <hi>Beasts</hi> the <hi>multitude.</hi>
+               </l>
+               <l>But when his <hi>Guardian Innocence,</hi> can fling</l>
+               <l>A we round about and ſave Him by that <hi>Ring.</hi>
+               </l>
+               <l>When the <hi>Juſt cauſe</hi> can fright the <hi>Beaſt</hi> away,</l>
+               <l>And make the <hi>Tyger</hi> tremble at her <hi>Prey.</hi>
+               </l>
+               <l>When neither <hi>Waves</hi> dare ſeize Him, nor the <hi>Rout,</hi>
+               </l>
+               <l>The ſtorme <hi>with</hi> Reaſon, nor the ſtorme <hi>without:</hi>
+               </l>
+               <l>Loſt in theſe ſtreights, when <hi>Plots</hi> have Vanquiſht bin,</l>
+               <l>And <hi>ſin</hi> perplext hath no <hi>Reliefe,</hi> but <hi>ſin.</hi>
+               </l>
+               <l>
+                  <hi>Agents</hi> and <hi>Inſtruments</hi> now on you fall,</l>
+               <l>You muſt be <hi>Iudges, People, Waves</hi> and <hi>All,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet 'cauſe the <hi>Rout</hi> will have't perform'd by <hi>you,</hi>
+               </l>
+               <l>And long to ſee <hi>done</hi> what they dare not <hi>Doe.</hi>
+               </l>
+               <l>You pur the <hi>Crime</hi> to <hi>uſe,</hi> it ſwels your <hi>Heape,</hi>
+               </l>
+               <l>Your <hi>ſin's</hi> your <hi>Wealth,</hi> nor are you <hi>Guilty cheape,</hi>
+               </l>
+               <l>You <hi>Husband</hi> All; there's no <hi>Appearance</hi> loſt,</l>
+               <l>Nor comes He once to th' <hi>Barre</hi> but at their <hi>coſt;</hi>
+               </l>
+               <l>A <hi>Constant Rate</hi> well <hi>Taxt,</hi> and <hi>Levied</hi> right,</l>
+               <l>And a <hi>Iust value</hi> ſet upon each <hi>ſight.</hi>
+               </l>
+               <l>At laſt they finde the <hi>Dayes</hi> by their own <hi>purſe,</hi>
+               </l>
+               <l>Leſſe known from <hi>Him</hi> then what they do <hi>disburſe:</hi>
+               </l>
+               <l>But when it now ſtrikes High for Him t'<hi>appeare,</hi>
+               </l>
+               <l>And <hi>Chapmen</hi> ſee the <hi>Bargaine</hi> is grown <hi>deere;</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:159461:4"/>
+                  <!-- PDF PAGE 106 -->
+They <hi>Muster hands,</hi> and their hot ſuits enlarge,</l>
+               <l>Not to purſue the <hi>Man,</hi> but ſave the <hi>Charge.</hi>
+               </l>
+               <l>Then leaſt you looſe their <hi>Cuſtome,</hi> (a juſt feare)</l>
+               <l>Selling your <hi>ſinnes</hi> and <hi>others Blood</hi> too deare.</l>
+               <l>You grant their ſuits, the Manner, and the Time.</l>
+               <l>And He muſt Dye for what no <hi>Law</hi> call's <hi>crime.</hi>
+               </l>
+               <l>Th' <hi>Afflicted Martyrs,</hi> when their paines began,</l>
+               <l>Their <hi>Trajan</hi> had, or <hi>Diocleſian.</hi>
+               </l>
+               <l>Their <hi>Tortures</hi> weare ſome <hi>Colour,</hi> and Proceed,</l>
+               <l>Though from no <hi>guilt,</hi> yet 'cauſe they <hi>diſagreed;</hi>
+               </l>
+               <l>What <hi>League,</hi> what <hi>Friendſhip</hi> there? They could not joyne,</l>
+               <l>And fix the <hi>Ark</hi> and <hi>Dagon,</hi> in one <hi>Shrine.</hi>
+               </l>
+               <l>Faith, combats <hi>Faith,</hi> and how agree can they,</l>
+               <l>That ſtill goe on, but ſtill a ſeverall way?</l>
+               <l>Zeale, <hi>Martyr's Zeale,</hi> &amp; <hi>Heate'</hi> gainſt <hi>Heate</hi> Conſpires,</l>
+               <l>As <hi>Theban Brothers</hi> fight, though in their <hi>fires.</hi>
+               </l>
+               <l>Yet as two diffrent <hi>Starres</hi> unite their <hi>Beames,</hi>
+               </l>
+               <l>And <hi>Rivers</hi> mingle <hi>Waves,</hi> and mix their <hi>Streames,</hi>
+               </l>
+               <l>And though they challenge each a ſeverall <hi>Name,</hi>
+               </l>
+               <l>Conſpire, becauſe their <hi>moiſture</hi> is the <hi>ſame.</hi>
+               </l>
+               <l>So <hi>Parties</hi> knit, though they be <hi>diverſe</hi> knowne,</l>
+               <l>The <hi>men</hi> are <hi>many,</hi> but the <hi>Christians, one.</hi>
+               </l>
+               <l>
+                  <hi>Trajan,</hi> no <hi>Trajan</hi> was to his owne <hi>Heard,</hi>
+               </l>
+               <l>And <hi>Tygers</hi> are not by the <hi>Tygers</hi> fear'd,</l>
+               <l>What ſtrange exceſſe then? what's that <hi>menſtrous Power,</hi>
+               </l>
+               <l>When <hi>flames</hi> doe <hi>flames,</hi> and <hi>ſtreames</hi> doe <hi>ſtreams</hi> devoure?</l>
+               <l>Where the <hi>ſame faith,</hi> 'g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inſt the <hi>ſame faith</hi> doth knock,</l>
+               <l>And <hi>ſheep,</hi> are <hi>wolves</hi> to <hi>ſheep</hi> of the ſame <hi>flock?</hi>
+               </l>
+               <l>Where <hi>Protestant</hi> the <hi>Protestant</hi> defies,</l>
+               <l>Where <hi>both Aſsent,</hi> yet <hi>one</hi> for <hi>Diſsent dyes?</hi>
+               </l>
+               <l>
+                  <pb n="5" facs="tcp:159461:4"/>
+                  <!-- PDF PAGE 106 -->
+Let thoſe that doubt this, through his Actions <hi>Wade,</hi>
+               </l>
+               <l>Where ſome muſt needs <hi>Convince,</hi> All may <hi>per ſwade;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Was He <hi>Apostate,</hi> who your <hi>Champion</hi> ſtood,</l>
+               <l>Bath'd in His <hi>Inke</hi> before, as now in <hi>Blood.</hi>
+               </l>
+               <l>He that unwindes the <hi>ſubtile Ieſuit,</hi>
+               </l>
+               <l>That Feels the <hi>Serpents Teeth,</hi> and is not <hi>Bit?</hi>
+               </l>
+               <l>Vnties the <hi>ſnake,</hi> findes each <hi>Mysterious knot,</hi>
+               </l>
+               <l>And turnes the <hi>Poyſon</hi> into <hi>Antidott.</hi>
+               </l>
+               <l>Doth <hi>Nicety,</hi> with <hi>Nicety</hi> undoe?</l>
+               <l>And makes the <hi>Labyrinth</hi> the <hi>Labyrinth's</hi> clew?</l>
+               <l>That <hi>ſleight</hi> by <hi>ſleight</hi> ſubdues, and cleerly proves,</l>
+               <l>Truth hath her <hi>Serpents</hi> too, as well as <hi>Doves?</hi>
+               </l>
+               <l>Now, you that blaſt His <hi>Innocence,</hi> Survey,</l>
+               <l>And view the <hi>Triumphs</hi> of this <hi>Glorious day;</hi>
+               </l>
+               <l>Could you (if that might be) if you ſhould come,</l>
+               <l>To ſeale God's cauſe with your own <hi>Martyrdome,</hi>
+               </l>
+               <l>Could all the Blood whoſe tydes move in your veines,</l>
+               <l>(Which then perhaps were <hi>Blood,</hi> but now is <hi>ſtaines,</hi>)</l>
+               <l>Yeeld it that <hi>Force</hi> and <hi>ſtrength,</hi> which it hath took</l>
+               <l>(Should we except His <hi>Blood</hi>) from <hi>this</hi> His <hi>Booke,</hi>
+               </l>
+               <l>Your <hi>Flame</hi> or <hi>Axe</hi> would leſſe evince to Men,</l>
+               <l>Your <hi>Block</hi> and <hi>Stake</hi> would prop leſſe then his <hi>Pen;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Is He <hi>Apoſtate,</hi> whom the <hi>Baites</hi> of <hi>Rome</hi>
+               </l>
+               <l>Cannot ſeduce, though all her <hi>Glories</hi> come?</l>
+               <l>Whom all her ſpecious <hi>Honours</hi> cannot hold,</l>
+               <l>Who Hates the ſnare although the <hi>Hook</hi> be <hi>Gold?</hi>
+               </l>
+               <l>Who <hi>Prostituted Titles</hi> can deſpiſe,</l>
+               <l>And from <hi>deſpiſed Titles, greater Riſe?</hi>
+               </l>
+               <l>Whom <hi>Names</hi> cannot <hi>Amuſe,</hi> but feats withall,</l>
+               <l>The <hi>Protestant</hi> above the <hi>Cardinall<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:159461:5"/>
+                  <!-- PDF PAGE 107 -->
+Who <hi>ſure</hi> to His own ſoule, doth ſcorne to find</l>
+               <l>A <hi>Crimſon cap</hi> the <hi>Purchaſe</hi> of His <hi>mind?</hi>
+               </l>
+               <l>"Who <hi>is</hi> not Great, may blame his Fates Offence,</l>
+               <l>"Who <hi>would</hi> not be, is Great in's Conſcience.</l>
+               <l>Next theſe His <hi>Sweat</hi> and <hi>Care</hi> how to advance,</l>
+               <l>The <hi>Church</hi> but to Her <hi>Just inheritance,</hi>
+               </l>
+               <l>How to gaine back her <hi>Own</hi> yet <hi>none Beguile,</hi>
+               </l>
+               <l>And make her <hi>Wealth</hi> her <hi>purchaſe,</hi> nor her <hi>ſpoile:</hi>
+               </l>
+               <l>Then, ſhape Gods worſhip to a <hi>joynt conſent;</hi>
+               </l>
+               <l>'Till when the ſeamleſſe Coat muſt ſtill be <hi>Rent:</hi>
+               </l>
+               <l>Then, to Repaire the <hi>ſhrines,</hi> as <hi>Breaches</hi> ſprung,</l>
+               <l>Which we ſhould <hi>heare,</hi> could we lend <hi>Pauls</hi> a <hi>Tongue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Speake, ſpeake! Great Monument!</hi> while thou yet art <hi>ſuch,</hi>
+               </l>
+               <l>And Reare Him 'bove their <hi>Scandalls,</hi> and their <hi>Touch;</hi>
+               </l>
+               <l>Had He ſurviv'd, thou might'ſt in Time Declare,</l>
+               <l>
+                  <hi>Vaſt things</hi> may <hi>comely</hi> be, and <hi>Greatest Faire.</hi>
+               </l>
+               <l>And though thy <hi>Limbs ſpread high,</hi> and <hi>Bulk exceed,</hi>
+               </l>
+               <l>Thou'dſt prov'd that <hi>Gyants</hi> are no <hi>monſtrous breed:</hi>
+               </l>
+               <l>Then 'bove <hi>Extent,</hi> thy <hi>Luſtre</hi> would prevaile,</l>
+               <l>And 'gainſt <hi>Dimenſions Feature</hi> turne the Scale;</l>
+               <l>But now, like <hi>Pyrrha's halfe adopted Birth,</hi>
+               </l>
+               <l>Where th'iſſue Part was <hi>Woman,</hi> Part was <hi>Earth,</hi>
+               </l>
+               <l>Where <hi>Female</hi> ſome, and ſome to <hi>ſtone</hi> was Bent,</l>
+               <l>And the <hi>one halfe,</hi> was t'others <hi>Monument,</hi>
+               </l>
+               <l>Thou muſt <hi>imperfect</hi> lye, and learn to Groane,</l>
+               <l>Now for His <hi>Ruine,</hi> ſtraight way for <hi>thine owne:</hi>
+               </l>
+               <l>But <hi>this</hi> and <hi>Thouſand</hi> ſuch <hi>Abortives,</hi> are,</l>
+               <l>By <hi>Bloody Rebels</hi> Raviſh't from His care,</l>
+               <l>But yet though ſome miſcarried in the <hi>Wombe,</hi>
+               </l>
+               <l>And <hi>Deeds Still-Borne</hi> have haſtned to their Tombe,</l>
+               <l>
+                  <pb n="7" facs="tcp:159461:5"/>
+                  <!-- PDF PAGE 107 -->
+God (that Reward's him now) forbad his ſtore,</l>
+               <l>Should all lie hid, and He but give i'th <hi>Ore;</hi>
+               </l>
+               <l>Many are <hi>Stamp't,</hi> and <hi>ſhap't,</hi> and doe ſtill ſhine,</l>
+               <l>Approv'd at <hi>Mint,</hi> a <hi>firme,</hi> and <hi>Perfect Coyne.</hi>
+               </l>
+               <l>Witneſſe that <hi>Mart</hi> of <hi>Books</hi> that yonder ſtands,</l>
+               <l>Beſtow'd by Him, though by <hi>anothers</hi> Hands:</l>
+               <l>Thoſe <hi>Attick Manuſcripts,</hi> ſo <hi>rare a Peice,</hi>
+               </l>
+               <l>They tell the <hi>Turke,</hi> he hath not Conquer'd <hi>Greece.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next theſe, a ſecond <hi>Beauteous Heape</hi> is throwne,</l>
+               <l>Of <hi>Easterne Authors,</hi> which were <hi>all his owne.</hi>
+               </l>
+               <l>Who in ſo <hi>Various Languages</hi> appeare,</l>
+               <l>
+                  <hi>Babell,</hi> could ſcarce be their <hi>Interpreter.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To <hi>Theſe,</hi> we may <hi>that Faire built Colledge</hi> bring,</l>
+               <l>Which proves that Learning's no ſuch <hi>Rustick</hi> thing;</l>
+               <l>Whoſe <hi>ſtructure</hi> well contriv'd doth not Relate,</l>
+               <l>To <hi>Antick fineneſse,</hi> but <hi>strong, laſting ſtate:</hi>
+               </l>
+               <l>
+                  <hi>Beauty</hi> well mix't with <hi>ſtrength,</hi> that it complies,</l>
+               <l>Moſt with the Gazer's <hi>Vſe,</hi> much with his <hi>Eyes,</hi>
+               </l>
+               <l>On <hi>Marble Columnes</hi> thus the <hi>Arts</hi> have ſtood,</l>
+               <l>As wife <hi>Seths Pillars</hi> ſav'd'em in the <hi>Flood.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But did He leave here <hi>Walls,</hi> and only Owne,</l>
+               <l>A glorious <hi>Heape,</hi> and make us Rich in <hi>Stone?</hi>
+               </l>
+               <l>Then had our <hi>Chanc'lour</hi> ſeem'd to faile, and here</l>
+               <l>Much Honour due to the <hi>Artificer:</hi>
+               </l>
+               <l>But <hi>this</hi> Our <hi>Prudent Patron</hi> long foreſaw,</l>
+               <l>When he Refin'd <hi>rude Statutes</hi> into <hi>Law;</hi>
+               </l>
+               <l>Our <hi>Arts,</hi> and <hi>Manners</hi> to his <hi>Building</hi> falls,</l>
+               <l>And He erects the <hi>Men,</hi> as well as <hi>Walls:</hi>
+               </l>
+               <l>"Thus <hi>Solons Lawes</hi> his <hi>Athens</hi> did Renowne,</l>
+               <l>"And turn'd that <hi>throng of Buildings</hi> to a <hi>Towne.</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:159461:6"/>
+                  <!-- PDF PAGE 108 -->
+Yet neither <hi>Law</hi> nor <hi>Statute,</hi> can be knowne</l>
+               <l>So <hi>strict,</hi> as to <hi>Himſelfe,</hi> He made His <hi>Owne,</hi>
+               </l>
+               <l>Which in His Actions <hi>Inventory</hi> Lyes,</l>
+               <l>Which <hi>Hell</hi> or <hi>Prinne</hi> can never Scandalize:</l>
+               <l>Where every Act His Rigid eye ſurveyes,</l>
+               <l>And <hi>Night</hi> is <hi>Barre,</hi> and <hi>Iudge</hi> to all His <hi>Dayes;</hi>
+               </l>
+               <l>Where all His ſecret Thoughts He doth comprize,</l>
+               <l>And every <hi>Dreame</hi> is ſummond to' an <hi>Aſsize<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Where He <hi>Arraignes</hi> each <hi>Circumstance</hi> of Care,</l>
+               <l>Which never Parts diſmiſs'd without a <hi>Prayer,</hi>
+               </l>
+               <l>See! how He <hi>ſift's</hi> and <hi>ſearches</hi> every part,</l>
+               <l>And Ranſackes All the cloſters of His heart;</l>
+               <l>He puts the <hi>boures</hi> upon the <hi>Rack</hi> and <hi>Wheele,</hi>
+               </l>
+               <l>And all His <hi>minutes</hi> muſt <hi>confeſſe</hi> or <hi>Feele:</hi>
+               </l>
+               <l>If they reveale <hi>One</hi> Act which forth did come.</l>
+               <l>When <hi>Humane Frailty</hi> crept into the <hi>Leome,</hi>
+               </l>
+               <l>If one <hi>Thred ſtaine,</hi> or <hi>fully, break</hi> or <hi>ſaint,</hi>
+               </l>
+               <l>So that the <hi>Man</hi> does interrupt the <hi>Saint,</hi>
+               </l>
+               <l>He hunts it to it's <hi>Death</hi> nor quitts his feares,</l>
+               <l>Till't be <hi>Embalm'd</hi> in <hi>Prayers;</hi> or <hi>drownd</hi> in <hi>Teares.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Sunne</hi> in all his journeys nere did ſee,</l>
+               <l>One more <hi>devout,</hi> not one more <hi>strict</hi> then Hee.</l>
+            </lg>
+            <lg>
+               <l>Since His <hi>Religion</hi> then's <hi>Vnmixt,</hi> and <hi>Fine;</hi>
+               </l>
+               <l>And <hi>Workes</hi> doe warrant <hi>Faith, as Ore</hi> the <hi>Mine:</hi>
+               </l>
+               <l>What can His <hi>Crime</hi> be now? Now you muſt ſay,</l>
+               <l>The <hi>Kingdoms Laws ſubverted</hi> in His way;</l>
+               <l>See! no ſuch crime doth o're His <hi>Conſcience</hi> grow,</l>
+               <l>(Without which <hi>Witneſse</hi> nere can make it ſo)</l>
+               <l>A cleere Tranſparent <hi>White,</hi> bedecks His Mind,</l>
+               <l>Where nought but <hi>Innocence;</hi> can ſhelter finde,</l>
+               <l>
+                  <pb n="9" facs="tcp:159461:6"/>
+                  <!-- PDF PAGE 108 -->
+Witneſſe that <hi>Breath</hi> which did your <hi>staine</hi> and <hi>Blot</hi>
+               </l>
+               <l>Wipe freely out, (though <hi>Heaven</hi> I feare will <hi>not</hi>)</l>
+               <l>Witneſſe that <hi>Calme</hi> and <hi>Quiet,</hi> in His <hi>Breſt,</hi>
+               </l>
+               <l>
+                  <hi>Prologue</hi> and <hi>Preface</hi> to His <hi>Place</hi> of <hi>Rest;</hi>
+               </l>
+               <l>When with the <hi>World</hi> He could undaunted Part,</l>
+               <l>And ſee in <hi>Death</hi> nor <hi>Meagre Looks,</hi> nor <hi>Dart:</hi>
+               </l>
+               <l>When to the <hi>Fatall Block</hi> His <hi>Gray Age</hi> goes,</l>
+               <l>With the ſame <hi>Eaſe,</hi> as when He took <hi>Repoſe.</hi>
+               </l>
+               <l>"He like old <hi>Enoch</hi> to His Bliſſe is Gon,</l>
+               <l>"'Tis not His Death, but His Tranſlation.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
